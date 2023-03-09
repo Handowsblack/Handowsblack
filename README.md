@@ -6,7 +6,7 @@ O básico sobre mim:
 - 🌱 Buscando aprender o máximo sobre React, Spring, JavaScript e Bancos de dados;
 - 🎮 Estou sempre jogando algo quando possível;
 - 💬 Me pergunte sobre qualquer coisa e vamos conversar bastante;
-- 📫 Como me contatar: ajgp@outlook.com;
+- 📫 Como me contatar: Handowsblack@outlook.com.br;
 - ⚡ Aficionado em RPG de mesa.
 
 
